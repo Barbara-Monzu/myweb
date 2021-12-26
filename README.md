@@ -3,6 +3,7 @@
 ### Descripción
 
 He creado mi propia web llamando a la API de Spotify para recopilar toda la información sobre mi proyecto musical Jeidi Mel.
+Es una web sencilla, hecha para practicar y repasar conceptos de React y de CSS.
 
 
 ### Server Install
@@ -54,6 +55,4 @@ npm run start
 - HTML & CSS
 
 
-### Additional info
 
-Es una web sencilla, hecha para practicar y repasar conceptos de React y de CSS.
